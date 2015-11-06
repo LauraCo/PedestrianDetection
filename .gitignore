@@ -1,0 +1,9 @@
+INRIAPerson/
+outputs/
+bath.jpg
+ben.mov
+common.py
+edge.py
+peopledetect.py
+video.py
+*.pyc
