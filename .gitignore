@@ -7,3 +7,4 @@ edge.py
 peopledetect.py
 video.py
 *.pyc
+*.mp4
