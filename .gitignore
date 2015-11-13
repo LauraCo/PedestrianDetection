@@ -9,3 +9,4 @@ video.py
 *.pyc
 *.mp4
 videos/
+git_backup/
