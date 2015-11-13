@@ -8,3 +8,4 @@ peopledetect.py
 video.py
 *.pyc
 *.mp4
+videos/
